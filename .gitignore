@@ -1,0 +1,4 @@
+data/advisors.csv
+data/daily_events.csv
+outputs/
+__pycache__/
